@@ -1,0 +1,6 @@
+{
+  "name": "MOTOR TV LEO STORY MOVIE Video Recorder",
+  "description": "Screen recording studio with MediaRecorder API, storybook headlines, watermarks, and auto-save player.",
+  "requestFramePermissions": ["display-capture", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
